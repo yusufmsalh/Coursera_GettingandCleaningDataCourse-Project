@@ -1,5 +1,5 @@
 library(plyr)
-myws <-"C:/Users/Yusuf M.Salh/Desktop/WS/UCI HAR Dataset"
+myws <-"Yusuf M.Salh/Desktop/WS/UCI HAR Dataset"
 setwd(myws)
 # Step 1
 # Merging  training and testing data sets to create a single data set
